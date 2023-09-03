@@ -1,0 +1,18 @@
+:root {
+    --dark: #353535;
+    --light: #ffffff;
+    --grey: #d9d9d9;
+    --contrast: #3c6e71;
+    --highlight: #284b63;
+}
+
+html {
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
